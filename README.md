@@ -1,1 +1,1 @@
-# ecommerce-store
+# ecommerce-store (.NET & Angular 15)
